@@ -1,0 +1,13 @@
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.deps.json
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.sourcelink.json
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/refint/Core.CrossCuttingConcerns.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/ref/Core.CrossCuttingConcerns.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.AssemblyReference.cache

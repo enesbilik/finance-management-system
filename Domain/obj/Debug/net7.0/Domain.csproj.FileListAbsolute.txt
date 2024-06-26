@@ -1,0 +1,16 @@
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/bin/Debug/net7.0/Domain.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/bin/Debug/net7.0/Core.Persistence.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.sourcelink.json
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.csproj.Up2Date
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/enes/Documents/GitHub/FinanceManagementSystem/Domain/obj/Debug/net7.0/ref/Domain.dll
